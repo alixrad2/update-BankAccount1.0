@@ -1,0 +1,39 @@
+
+html{
+    background-color: #385170;
+    text-align: center;
+}
+.navbar{
+    padding: 5px;
+    background-color: lightblue;
+    width: 100%;
+}
+
+a {
+    text-decoration: None;
+    color: black;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin-right: 25px;
+}
+p{
+    color: #385170;
+}
+
+div{
+    color: blue;
+}
+
+
+a:hover{
+    color:red;
+    text-shadow:red  ;
+}
+footer{
+    background-color: darkcyan;
+    position: absolute;
+    bottom: 0px;
+}

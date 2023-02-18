@@ -1,0 +1,39 @@
+html{
+    direction: rtl;
+    text-align: center;
+    background-color: #9fd3c7;
+}
+input{
+    margin-top: 10px;
+    border: darkblue 2px solid;
+    background-color: bisque;
+    outline: none;
+}
+a{
+    text-decoration: none;
+    color: crimson;
+}
+button{
+    width: 220px;
+    height: 38px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 30px auto 10px auto;
+    -webkit-box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%), 0 3px 1px -2px rgb(0 0 0 / 20%);
+    background-color: #ed3237!important;
+}
+button:active{
+    border: rgba(104,206,136,1) 3px solid;
+}
+div{
+    color: #00ff8e;
+}
+
+strong{
+    color: chartreuse;
+}
