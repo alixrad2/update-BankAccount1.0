@@ -1,7 +1,7 @@
 # update-BankAccount1.0
 
 UPDATE{
-      Clock with js in register, main , login page       
+      Clock with js added in register, main , login page       
 }
 
 Problem{
